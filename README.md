@@ -1,10 +1,9 @@
 # Hello there! 👋
 
 ## About Me
-🎓 Currently in my 2nd year (4th semester) of computer science studies<br>
+🎓 Currently in my 3rd year (6th semester) of computer science studies<br>
 💻 Just starting my journey on GitHub and excited to contribute to the community<br>
 🌱 Proficient in C, C++, Java, and Python<br>
-📚 Currently learning JavaScript to expand my web development skills<br>
 🔭 Looking to work on projects that challenge me to apply my programming knowledge<br>
 👯 Open to collaborating on beginner-friendly open-source projects<br>
 
