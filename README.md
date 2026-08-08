@@ -43,9 +43,9 @@
 <h3 align="left">🧲 Drop me a line:</h3>
 <div align="left">
   <a href="mailto:ramolaayush832@gmail.com"><img width="35px" src="https://github.com/Ghoulayush/Ghoulayush/blob/main/icons/gmail_new_logo.png" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/ayush-ramola" target="_blank"><img width="35px" src="https://github.com/Ghoulayush/Ghoulayush/blob/main/icons/linkedin-blue.png" alt="LinkedIn" /></a>
-  <a href="https://github.com/Ghoulayush/Personal-Portfolio" target="_blank"><img width="35px" src="https://github.com/Ghoulayush/Ghoulayush/blob/main/icons/11zon_cropped.png" alt="Portfolio" /></a>
-  <a href="https://open.spotify.com/" target="_blank"><img width="35px" src="https://github.com/Ghoulayush/Ghoulayush/blob/main/icons/spotify-icon.png" alt="Spotify" /></a>
+  <a href="https://www.linkedin.com/in/ayush-ramola/" target="_blank"><img width="35px" src="https://github.com/Ghoulayush/Ghoulayush/blob/main/icons/linkedin-blue.png" alt="LinkedIn" /></a>
+  <a href="https://ayushramola.vercel.app/" target="_blank"><img width="35px" src="https://github.com/Ghoulayush/Ghoulayush/blob/main/icons/11zon_cropped.png" alt="Portfolio" /></a>
+  <a href="https://music.apple.com/in/playlist/chill/pl.u-b3b8RMBhKARa56q" target="_blank"><img width="35px" src="https://github.com/Ghoulayush/Ghoulayush/blob/main/icons/apple-music.svg" alt="Apple Music" /></a>
   <a href="https://youtube.com/" target="_blank"><img width="37px" src="https://github.com/Ghoulayush/Ghoulayush/blob/main/icons/youtube-red1.png" alt="YouTube" /></a>
 </div>
 
@@ -73,19 +73,10 @@
 
 
 
-<!-- Best Repositories -->
+<!-- GitHub Stats -->
 <div align="center">
-  <h3>⭐️ Interesting Repositories</h3>
-  <p align="center">
-<a href="https://github.com/Ghoulayush/BharatBiz-AI">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Ghoulayush&repo=BharatBiz-AI&theme=nord" /></a>
-<a href="https://github.com/bigsparsh/gitmate">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=bigsparsh&repo=gitmate&theme=nord" /></a>
-<a href="https://github.com/Ghoulayush/GuideWire">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Ghoulayush&repo=GuideWire&theme=nord" /></a>
-<a href="https://github.com/sahajbeersingh/BookSwap">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=sahajbeersingh&repo=BookSwap&theme=nord" /></a>
-  </p>
+  <h3>📊 GitHub Stats</h3>
+  <img src="https://github-stats-extended.vercel.app/api?username=ghoulayush&theme=radical" />
 </div>
 
 
