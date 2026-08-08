@@ -1,6 +1,6 @@
 <!-- MasterHead -->
-<a href="https://github.com/Ghoulayush/Ghoulayush/blob/main/BEZEHEL.gif">
-  <img width="100%" src="https://github.com/Ghoulayush/Ghoulayush/blob/main/BEZEHEL.gif" alt="BEZEHEL Banner GIF"/>
+<a href="https://github.com/Ghoulayush/Ghoulayush/blob/main/fallout_grayscale%20(1).gif">
+  <img width="100%" src="https://github.com/Ghoulayush/Ghoulayush/blob/main/fallout_grayscale%20(1).gif" alt="Fallout Banner GIF"/>
 </a>
 
 <div align="center">
@@ -59,51 +59,22 @@
 
 <img width="100%" src="https://github.com/Ghoulayush/Ghoulayush/blob/main/fallout1%20(11).gif" alt="Fallout Banner" />
 
-<!-- GitHub Status -->
-<h3 align="center">🌱 GitHub Status</h3>
-<div align="center">
-  <img width="398" src="https://github-readme-stats.vercel.app/api?username=Ghoulayush&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8" />
-  <img width="398" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghoulayush&layout=compact&theme=nord&border_radius=8" />
-  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=Ghoulayush&theme=nord&hide_border=false" alt="GitHub Streak" />
-</div>
-
-<img align="right" alt="git-gif" width="300" src="https://github.com/Ghoulayush/Ghoulayush/blob/main/gitgif.gif" />
-
-<!-- Portfolio Preview -->
-<h3 align="center">🖥️ Portfolio Preview</h3>
-<p align="center">
-  <a href="https://github.com/Ghoulayush/Personal-Portfolio" target="_blank">
-    <img width="400" src="https://github.com/Ghoulayush/Ghoulayush/blob/main/hom1_rounded.png" alt="Portfolio Home 1" /></a>
-  <a href="https://github.com/Ghoulayush/Personal-Portfolio" target="_blank">
-    <img width="400" src="https://github.com/Ghoulayush/Ghoulayush/blob/main/hom2_rounded.png" alt="Portfolio Home 2" /></a>
-</p>
-
-<br>
-
-<img width="100%" src="https://github.com/Ghoulayush/Ghoulayush/blob/main/BEZEHEL-3.gif" alt="Section Banner" />
-
 <!-- Best Repositories -->
 <div align="center">
   <h3>⭐️ Interesting Repositories</h3>
   <p align="center">
     <a href="https://github.com/Ghoulayush/BharatBiz-AI">
       <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Ghoulayush&repo=BharatBiz-AI&theme=nord" /></a>
-    <a href="https://github.com/Ghoulayush/time-machine-filesystem">
-      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Ghoulayush&repo=time-machine-filesystem&theme=nord" /></a>
+    <a href="https://github.com/bigsparsh/gitmate">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=bigsparsh&repo=gitmate&theme=nord" /></a>
     <a href="https://github.com/Ghoulayush/GuideWire">
       <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Ghoulayush&repo=GuideWire&theme=nord" /></a>
-    <a href="https://github.com/Ghoulayush/Personal-Portfolio">
-      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Ghoulayush&repo=Personal-Portfolio&theme=nord" /></a>
-    <a href="https://github.com/Ghoulayush/Java-Projects">
-      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Ghoulayush&repo=Java-Projects&theme=nord" /></a>
-    <a href="https://github.com/Ghoulayush/fastfetch">
-      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Ghoulayush&repo=fastfetch&theme=nord" /></a>
+    <a href="https://github.com/sahajbeersingh/BookSwap">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=sahajbeersingh&repo=BookSwap&theme=nord" /></a>
   </p>
 </div>
 
 <br>
-
-<img width="100%" src="https://github.com/Ghoulayush/Ghoulayush/blob/main/fallout_grayscale%20(1).gif" alt="Fallout Banner" />
 
 <!-- Tech Stack -->
 <h3 align="center">💻 Tech Stack</h3>
@@ -133,11 +104,7 @@
 
 <br>
 
-<img width="100%" src="https://github.com/Ghoulayush/Ghoulayush/blob/main/fallout.gif" alt="Fallout GIF" style="width:auto; height:auto" />
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
-
-<img width="100%" src="https://github.com/Ghoulayush/Ghoulayush/blob/main/BEZEHEL-home-grey.gif" alt="Footer Banner" />
+<img width="100%" src="https://github.com/Ghoulayush/Ghoulayush/blob/main/fallout.gif" alt="Fallout GIF" />
 
 <p align="center">
   ⚠️ This README is uniquely designed by <strong>@Ghoulayush</strong>, inspired by @JoshuaThadi.
