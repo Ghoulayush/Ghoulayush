@@ -93,7 +93,7 @@
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
 <a href="https://vercel.com/" target="_blank"><img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"></a>
-<a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"></a>
+<a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></a>
 <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
 <a href="https://vitejs.dev/" target="_blank"><img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"></a>
 <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
@@ -106,26 +106,17 @@
 <a href="https://www.arduino.cc/" target="_blank"><img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"></a>
 <a href="https://numpy.org/" target="_blank">
   <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"></a>
-<a href="https://pandas.pydata.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"></a>
-<a href="https://scikit-learn.org/" target="_blank">
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white"></a>
+<a href="https://aws.amazon.com/ec2/" target="_blank"><img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"></a>
+<a href="https://aws.amazon.com/lambda/" target="_blank"><img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"></a>
+<a href="https://aws.amazon.com/s3/" target="_blank"><img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"></a>
+<a href="https://aws.amazon.com/dynamodb/" target="_blank"><img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white"></a>
+<a href="https://aws.amazon.com/rds/" target="_blank"><img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"></a>
+<a href="https://aws.amazon.com/api-gateway/" target="_blank"><img src="https://img.shields.io/badge/API%20Gateway-FF9900?style=for-the-badge&logo=amazonapigateway&logoColor=white"></a>
 
 
 
 </div>
-
-</div>
-
-
-
-<!-- Support -->
-<h3 align="center">💰 Support Me</h3>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/Ghoulayush">
-    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="Buy Me A Coffee" />
-  </a>
-</p>
 
 <!-- Ending -->
 <img src="https://github.com/Ghoulayush/Ghoulayush/blob/main/fallout.gif" alt="Fallout GIF" style="width:auto; height:auto" />
