@@ -1,42 +1,144 @@
-# Hello there! 👋
+<!-- MasterHead -->
+<a href="https://github.com/Ghoulayush/Ghoulayush/blob/main/BEZEHEL.gif">
+  <img width="100%" src="https://github.com/Ghoulayush/Ghoulayush/blob/main/BEZEHEL.gif" alt="BEZEHEL Banner GIF"/>
+</a>
 
-## About Me
-🎓 Currently in my 4th year (7th semester) of computer science studies<br>
-💻 Just starting my journey on GitHub and excited to contribute to the community<br>
-🌱 Proficient in C, C++, Java, and Python<br>
-🔭 Looking to work on projects that challenge me to apply my programming knowledge<br>
-👯 Open to collaborating on beginner-friendly open-source projects<br>
+<div align="center">
+  <!-- Profile Views -->
+  <a href="https://github.com/Ghoulayush" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=Ghoulayush&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views Badge" /></a>
 
-## My Learning Path
-- 🚀 Strengthening my foundation in programming fundamentals<br>
-- 🌐 Exploring web development through JavaScript<br>
-- 🧩 Working on small projects to build my portfolio<br>
-- 📖 Always open to learning new technologies and programming paradigms<br>
+  <!-- Total Stars -->
+  <a href="https://github.com/Ghoulayush?tab=repositories&sort=stargazers" target="_blank">
+    <img alt="Total Stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/Ghoulayush?style=for-the-badge&label=Stars&color=bf616a&logo=github" /></a>
 
-## Let's Connect!
-I'm looking for mentorship and coding buddies to grow together in this journey!
+  <!-- Followers -->
+  <a href="https://github.com/Ghoulayush?tab=followers" target="_blank">
+    <img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/Ghoulayush?style=for-the-badge&label=Followers&color=5e81ac&logo=github" /></a>
 
+  <!-- Forks -->
+  <a style="display:block;" href="https://github.com/Ghoulayush?tab=repositories&q=&type=source&language=&sort=stargazers">
+    <img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fork&color=bf616a&labelColor=5C5858&logoColor=ffffff&label=Forks&style=for-the-badge&query=%24.forks&refresh=1&url=https://api.github-star-counter.workers.dev/user/Ghoulayush" /></a>
+</div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-ramola) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ramolaayush832@gmail.com) 
+<img align="left" alt="coding-gif" width="400" src="https://github.com/Ghoulayush/Ghoulayush/blob/main/transparent_gitgif.gif" />
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ghoulayush&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ghoulayush&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghoulayush&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- About Me -->
+<h3 align="left">💫 About Me</h3>
+<p>
+  🎓 I am currently in my 4th year (7th semester) of Computer Science studies.<br>
+  🌱 I am just starting my journey on GitHub and excited to contribute to the community.<br>
+  💬 Proficient in programming languages such as C, C++, Java, and Python.<br>
+  🌐 Exploring web development through JavaScript, React, and Django.<br>
+  ⚡ Interest in DS/AI/ML, Systems Programming, Automation, and Open Source.<br>
+  👯 Open to collaborating on beginner-friendly open-source projects and finding coding buddies.<br>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ghoulayush&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<h3 align="left">🧲 Drop me a line:</h3>
+<div align="left">
+  <a href="mailto:ramolaayush832@gmail.com"><img width="35px" src="https://github.com/Ghoulayush/Ghoulayush/blob/main/icons/gmail_new_logo.png" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/ayush-ramola" target="_blank"><img width="35px" src="https://github.com/Ghoulayush/Ghoulayush/blob/main/icons/linkedin-blue.png" alt="LinkedIn" /></a>
+  <a href="https://github.com/Ghoulayush/Personal-Portfolio" target="_blank"><img width="35px" src="https://github.com/Ghoulayush/Ghoulayush/blob/main/icons/11zon_cropped.png" alt="Portfolio" /></a>
+  <a href="https://open.spotify.com/" target="_blank"><img width="35px" src="https://github.com/Ghoulayush/Ghoulayush/blob/main/icons/spotify-icon.png" alt="Spotify" /></a>
+  <a href="https://youtube.com/" target="_blank"><img width="37px" src="https://github.com/Ghoulayush/Ghoulayush/blob/main/icons/youtube-red1.png" alt="YouTube" /></a>
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br>
+<br>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ghoulayush&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- Languages & Tools -->
+<h3 align="center">📚 Languages & Tools I Have Placed My Hands On</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,bash" /><br>
+  <img src="https://skillicons.dev/icons?i=react,vite,nodejs,django,mongodb,git,github" /><br>
+  <img src="https://skillicons.dev/icons?i=vscode,figma,canva,gitlab,arduino,vercel,html" /><br>
+  <img src="https://skillicons.dev/icons?i=css,powershell,linux,postman,pycharm,clion,md" /><br>
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=Ghoulayush&icon=0&color=0)](https://visitcount.itsvg.in)
+<br>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img width="100%" src="https://github.com/Ghoulayush/Ghoulayush/blob/main/fallout1%20(11).gif" alt="Fallout Banner" />
+
+<!-- GitHub Status -->
+<h3 align="center">🌱 GitHub Status</h3>
+<div align="center">
+  <img width="398" src="https://github-readme-stats.vercel.app/api?username=Ghoulayush&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8" />
+  <img width="398" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghoulayush&layout=compact&theme=nord&border_radius=8" />
+  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=Ghoulayush&theme=nord&hide_border=false" alt="GitHub Streak" />
+</div>
+
+<img align="right" alt="git-gif" width="300" src="https://github.com/Ghoulayush/Ghoulayush/blob/main/gitgif.gif" />
+
+<!-- Portfolio Preview -->
+<h3 align="center">🖥️ Portfolio Preview</h3>
+<p align="center">
+  <a href="https://github.com/Ghoulayush/Personal-Portfolio" target="_blank">
+    <img width="400" src="https://github.com/Ghoulayush/Ghoulayush/blob/main/hom1_rounded.png" alt="Portfolio Home 1" /></a>
+  <a href="https://github.com/Ghoulayush/Personal-Portfolio" target="_blank">
+    <img width="400" src="https://github.com/Ghoulayush/Ghoulayush/blob/main/hom2_rounded.png" alt="Portfolio Home 2" /></a>
+</p>
+
+<br>
+
+<img width="100%" src="https://github.com/Ghoulayush/Ghoulayush/blob/main/BEZEHEL-3.gif" alt="Section Banner" />
+
+<!-- Best Repositories -->
+<div align="center">
+  <h3>⭐️ Interesting Repositories</h3>
+  <p align="center">
+    <a href="https://github.com/Ghoulayush/BharatBiz-AI">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Ghoulayush&repo=BharatBiz-AI&theme=nord" /></a>
+    <a href="https://github.com/Ghoulayush/time-machine-filesystem">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Ghoulayush&repo=time-machine-filesystem&theme=nord" /></a>
+    <a href="https://github.com/Ghoulayush/GuideWire">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Ghoulayush&repo=GuideWire&theme=nord" /></a>
+    <a href="https://github.com/Ghoulayush/Personal-Portfolio">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Ghoulayush&repo=Personal-Portfolio&theme=nord" /></a>
+    <a href="https://github.com/Ghoulayush/Java-Projects">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Ghoulayush&repo=Java-Projects&theme=nord" /></a>
+    <a href="https://github.com/Ghoulayush/fastfetch">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Ghoulayush&repo=fastfetch&theme=nord" /></a>
+  </p>
+</div>
+
+<br>
+
+<img width="100%" src="https://github.com/Ghoulayush/Ghoulayush/blob/main/fallout_grayscale%20(1).gif" alt="Fallout Banner" />
+
+<!-- Tech Stack -->
+<h3 align="center">💻 Tech Stack</h3>
+<div align="center">
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></a>
+  <a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+  <a href="https://www.oracle.com/java/" target="_blank"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
+  <a href="https://vercel.com/" target="_blank"><img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"></a>
+  <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
+  <a href="https://vitejs.dev/" target="_blank"><img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
+  <a href="https://www.canva.com/" target="_blank"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a>
+  <a href="https://about.gitlab.com/" target="_blank"><img src="https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"></a>
+  <a href="https://www.arduino.cc/" target="_blank"><img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"></a>
+  <a href="https://numpy.org/" target="_blank"><img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"></a>
+</div>
+
+<br>
+
+<img width="100%" src="https://github.com/Ghoulayush/Ghoulayush/blob/main/fallout.gif" alt="Fallout GIF" style="width:auto; height:auto" />
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
+
+<img width="100%" src="https://github.com/Ghoulayush/Ghoulayush/blob/main/BEZEHEL-home-grey.gif" alt="Footer Banner" />
+
+<p align="center">
+  ⚠️ This README is uniquely designed by <strong>@Ghoulayush</strong>, inspired by @JoshuaThadi.
+</p>
